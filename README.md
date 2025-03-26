@@ -1,0 +1,1 @@
+Uma lib pra nextJs feita pra substituir a pentacraft-ui do Paim.
