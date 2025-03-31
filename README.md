@@ -9,8 +9,7 @@ Componentes:
 - [X] Textarea
 - [X] Avatar
 - [X] File
-- [ ] Link
-- [ ] Form
+- [X] Form
 - [ ] Dropdown
 - [ ] Skeleton
 - [ ] Table
