@@ -8,7 +8,7 @@ Componentes:
 - [X] Select
 - [X] Textarea
 - [X] Avatar
-- [ ] File
+- [X] File
 - [ ] Link
 - [ ] Form
 - [ ] Dropdown
