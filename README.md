@@ -11,7 +11,6 @@ Componentes:
 - [X] File
 - [X] Form
 - [ ] Dropdown
-- [ ] Skeleton
 - [ ] Table
 - [ ] Pagination
 - [ ] Separetor
