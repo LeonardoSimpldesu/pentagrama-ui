@@ -10,7 +10,7 @@ Componentes:
 - [X] Avatar
 - [X] File
 - [X] Form
-- [ ] Dropdown
+- [X] Dropdown
 - [ ] Table
 - [ ] Pagination
 - [ ] Separetor
