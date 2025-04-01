@@ -11,7 +11,7 @@ Componentes:
 - [X] File
 - [X] Form
 - [X] Dropdown
-- [ ] Table
+- [X] DataTable
 - [ ] Pagination
 - [ ] Separetor
 - [ ] Sidebar
